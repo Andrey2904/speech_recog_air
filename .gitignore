@@ -1,0 +1,34 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 🧪 Виртуальное окружение
+venv/
+.env/
+.venv/
+
+# 📦 Модели Hugging Face
+.cache/
+huggingface/
+models/
+*.bin
+
+# 🧼 Логи и временные файлы
+*.log
+*.tmp
+*.bak
+
+# 📝 Текстовые результаты (если не нужны в репо)
+transcription.txt
+transcription_cleaned.txt
+*.wav
+
+# ⚙️ IDE
+.vscode/
+.idea/
+
+# 🚫 ОС системное
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+squack => squawk
+cleard => cleared
+tirm => trim
+руновей => runway
+вышко => вышка
+Анады => Анадырь
